@@ -1,0 +1,94 @@
+{
+  "team": "zb1",
+  "updated_at": "2026-04-07 20:03:09",
+  "summary": {
+    "total_sales": 458,
+    "latest_qty": 289,
+    "revert_count": 0,
+    "record_count": 4
+  },
+  "current_stocks": [
+    {
+      "site": "jp",
+      "quantity": -121,
+      "display": "-121"
+    },
+    {
+      "site": "eng",
+      "quantity": -27,
+      "display": "-27"
+    },
+    {
+      "site": "cn",
+      "quantity": -21,
+      "display": "-21"
+    },
+    {
+      "site": "kr",
+      "quantity": -289,
+      "display": "-289"
+    }
+  ],
+  "channel_totals": {
+    "jp": 121,
+    "eng": 27,
+    "cn": 21,
+    "kr": 289
+  },
+  "trend": [
+    {
+      "time": "2026-04-07 20:03:08",
+      "cumulative": 121
+    },
+    {
+      "time": "2026-04-07 20:03:08",
+      "cumulative": 148
+    },
+    {
+      "time": "2026-04-07 20:03:08",
+      "cumulative": 169
+    },
+    {
+      "time": "2026-04-07 20:03:08",
+      "cumulative": 458
+    }
+  ],
+  "records": [
+    {
+      "time": "2026-04-07 20:03:08",
+      "channel": "kr",
+      "before": null,
+      "after": -289,
+      "qty": 0,
+      "qty_abs": 289,
+      "type": "init"
+    },
+    {
+      "time": "2026-04-07 20:03:08",
+      "channel": "cn",
+      "before": null,
+      "after": -21,
+      "qty": 0,
+      "qty_abs": 21,
+      "type": "init"
+    },
+    {
+      "time": "2026-04-07 20:03:08",
+      "channel": "eng",
+      "before": null,
+      "after": -27,
+      "qty": 0,
+      "qty_abs": 27,
+      "type": "init"
+    },
+    {
+      "time": "2026-04-07 20:03:08",
+      "channel": "jp",
+      "before": null,
+      "after": -121,
+      "qty": 0,
+      "qty_abs": 121,
+      "type": "init"
+    }
+  ]
+}
